@@ -1,7 +1,3 @@
-Absolutely! Here’s a polished `README.md` tailored for the Oman Financial Company loan website project, incorporating all your detailed specifications:
-
----
-
 # Oman Financial Company – Loan Application Website
 
 Welcome to the official repository for the **Oman Financial Company** loan application website — a sleek, responsive, and secure platform designed to help individuals and businesses in Oman apply for loans with confidence and ease.
@@ -137,14 +133,4 @@ Expandable accordion format with answers to:
   - Use CAPTCHA or reCAPTCHA v3
   - Ensure HTTPS/SSL is enabled
 
----
 
-## 🚀 Final Summary
-
-This project delivers a **modern, responsive, and secure loan application website** for **Oman Financial Company**. It guides users from homepage → loan category → application form with a smooth UX, fast load times, and encrypted data handling.
-
----
-
-
-
-Would you like help scaffolding the actual codebase next — like setting up the folder structure, HTML templates, or backend form logic?
